@@ -1,24 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Header from './components/Header';
+import Body from './components/Body';
+import Magazine from './components/Magazine';
+import EditorsPick from './components/EditorsPick';
+import FeaturedSlideshows from './components/FeaturedSlideshows';
+import Categories from './components/Categories';
+import Subscribe from './components/Subscribe';
+import Footer from './components/Footer';
+import { Container } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Container fluid>
+        <Header />
+        <Body />
+        <Magazine />
+        <EditorsPick />
+        <FeaturedSlideshows />
+        <Categories />
+        <Subscribe />
+        <Footer />
+      </Container>
     </div>
   );
 }
