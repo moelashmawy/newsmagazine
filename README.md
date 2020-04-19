@@ -10,32 +10,30 @@
 ###  ⚡️⚡️⚡️ [Live Demo](https://hamohuh.github.io/newsmagazine/) ⚡️⚡️⚡️
 
 
-## Table of contents 📜
+## 📜 Table of contents
 * [Main Features](#main-features-)
 * [Technologies](#technologies-)
 * [Key Concepts](#key-concepts-)
 * [Setup](#setup-)
 
 
-## Main Features 🚩
+## 🚩 Main Features
 * One page website
 * Elegant UI
 
-## Technologies 💹
+## 💹 Technologies
 Project is created with:
 * React JS
 * React Bootstrap
 * Sass
 * [AOS Animation](https://github.com/michalsnik/aos)
 
-## Key Concepts 💡
+## 💡 Key Concepts
 * React Router
 * One Page website
-* ES6 Module
-* OOP (Object Oriented Programming)
 * MVC (Model-View-Controller)
 
-## Setup 💻
+## 💻 Setup
 To run this project, install it locally using npm:
 
 ```
