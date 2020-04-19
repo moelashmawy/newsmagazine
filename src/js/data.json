@@ -1,0 +1,1180 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "us",
+            "displayName": "U.S."
+        },
+        {
+            "id": 2,
+            "name": "world",
+            "displayName": "World"
+        },
+        {
+            "id": 3,
+            "name": "business",
+            "displayName": "Business"
+        },
+        {
+            "id": 4,
+            "name": "techAndScience",
+            "displayName": "Tech & Science"
+        },
+        {
+            "id": 5,
+            "name": "culture",
+            "displayName": "Culture"
+        },
+        {
+            "id": 6,
+            "name": "newsgeek",
+            "displayName": "Newsgeek"
+        },
+        {
+            "id": 7,
+            "name": "sports",
+            "displayName": "Sports"
+        },
+        {
+            "id": 8,
+            "name": "health",
+            "displayName": "Health"
+        },
+        {
+            "id": 9,
+            "name": "theDebate",
+            "displayName": "The Debate"
+        },
+        {
+            "id": 10,
+            "name": "vantage",
+            "displayName": "Vantage"
+        },
+        {
+            "id": 11,
+            "name": "weather",
+            "displayName": "Weather"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "category": "us",
+            "image": "/1.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "category": "world",
+            "image": "/2.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Egypt"
+                },
+                {
+                    "id": 2,
+                    "name": "China"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "category": "business",
+            "image": "/3.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Money"
+                },
+                {
+                    "id": 2,
+                    "name": "Stocks"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "category": "culture",
+            "image": "/4.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Travel"
+                },
+                {
+                    "id": 2,
+                    "name": "Food"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "category": "sports",
+            "image": "/5.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Football"
+                },
+                {
+                    "id": 2,
+                    "name": "Swimming"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "category": "health",
+            "image": "/6.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Doctors"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "category": "us",
+            "image": "/1.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "category": "world",
+            "image": "/2.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Egypt"
+                },
+                {
+                    "id": 2,
+                    "name": "China"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "category": "business",
+            "image": "/3.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "category": "culture",
+            "image": "/4.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Travel"
+                },
+                {
+                    "id": 2,
+                    "name": "Food"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "category": "sports",
+            "image": "/5.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "category": "health",
+            "image": "/6.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "category": "us",
+            "image": "/1.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "category": "world",
+            "image": "/2.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Egypt"
+                },
+                {
+                    "id": 2,
+                    "name": "China"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "category": "business",
+            "image": "/3.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "category": "culture",
+            "image": "/4.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Travel"
+                },
+                {
+                    "id": 2,
+                    "name": "Food"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "category": "sports",
+            "image": "/5.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "category": "health",
+            "image": "/6.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Doctors"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "category": "us",
+            "image": "/1.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "category": "world",
+            "image": "/2.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Egypt"
+                },
+                {
+                    "id": 2,
+                    "name": "China"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "category": "business",
+            "image": "/3.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "category": "culture",
+            "image": "/4.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Travel"
+                },
+                {
+                    "id": 2,
+                    "name": "Food"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "category": "sports",
+            "image": "/5.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "category": "health",
+            "image": "/6.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Doctors"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "category": "us",
+            "image": "/1.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "category": "world",
+            "image": "/2.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Egypt"
+                },
+                {
+                    "id": 2,
+                    "name": "China"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "category": "business",
+            "image": "/3.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "category": "culture",
+            "image": "/4.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Travel"
+                },
+                {
+                    "id": 2,
+                    "name": "Food"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "category": "sports",
+            "image": "/5.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "California"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "category": "health",
+            "image": "/6.jpg",
+            "title": "California Governor Gavin Newsom Shares Framework for Reopening the State ",
+            "brief": "Social distancing measures will still be in place but Newsom hopes to start easing some restrictions.",
+            "author": " Jenni Fink ",
+            "date": "4/14/2020",
+            "time": "3:58 PM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "Doctors"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "Jenni Fink",
+            "title": "Chief Reporter, Breaking News",
+            "about": "Jenni Fink joined the Newsweek team in July 2018 and is a staff writer on the breaking news team. She graduated from the University of Arizona and had her first book, 'Sentenced to Life,' published in 2015. ",
+            "imgurl": "https://d.newsweek.com/en/full/109397/jenni-fink.webp"
+        }
+    ],
+    "opinions": [
+        {
+            "id": 1,
+            "category": "opinion",
+            "image": "https://d.newsweek.com/en/full/1581442/xi-jinping-wuhan.webp",
+            "title": "China Hawks Are Calling Coronavirus Their Smoking Gun. Don't Buy It",
+            "author": "Kerry Brown",
+            "authorImg": "/doug-gordon.webp",
+            "date": "4/14/20",
+            "time": "10:01 AM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "China"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "category": "opinion",
+            "image": "https://d.newsweek.com/en/full/1581442/xi-jinping-wuhan.webp",
+            "title": "China Hawks Are Calling Coronavirus Their Smoking Gun. Don't Buy It",
+            "author": "Kerry Brown",
+            "authorImg": "/doug-gordon.webp",
+            "date": "4/14/20",
+            "time": "10:01 AM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "China"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "category": "opinion",
+            "image": "https://d.newsweek.com/en/full/1581442/xi-jinping-wuhan.webp",
+            "title": "China Hawks Are Calling Coronavirus Their Smoking Gun. Don't Buy It",
+            "author": "Kerry Brown",
+            "authorImg": "/doug-gordon.webp",
+            "date": "4/14/20",
+            "time": "10:01 AM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "China"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "category": "opinion",
+            "image": "https://d.newsweek.com/en/full/1581442/xi-jinping-wuhan.webp",
+            "title": "China Hawks Are Calling Coronavirus Their Smoking Gun. Don't Buy It",
+            "author": "Kerry Brown",
+            "authorImg": "/doug-gordon.webp",
+            "date": "4/14/20",
+            "time": "10:01 AM",
+            "topics": [
+                {
+                    "id": 1,
+                    "name": "China"
+                },
+                {
+                    "id": 2,
+                    "name": "Coronavirus"
+                }
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                },
+                {
+                    "id": 2,
+                    "username": "John Douh",
+                    "content": "He basically said the same thing President Trump is saying. Hoping, trying, listening to experts and wait and see. But, it’s better than bad news hope they can both accomplish their plans."
+                }
+            ]
+        }
+    ],
+    "sponsored": [
+        {
+            "id": 1,
+            "title": "Weathering the Perfect Storm",
+            "brief": "COVID-19 is not our only enemy. While the world confronts a pandemic, our critical infrastructure is vulnerable to cyberattack. Read this new report on where the weak points are and how to strengthen defenses against terrorists and cyber-criminals.",
+            "img": "/9.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Weathering the Perfect Storm",
+            "brief": "COVID-19 is not our only enemy. While the world confronts a pandemic, our critical infrastructure is vulnerable to cyberattack. Read this new report on where the weak points are and how to strengthen defenses against terrorists and cyber-criminals.",
+            "img": "/9.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Weathering the Perfect Storm",
+            "brief": "COVID-19 is not our only enemy. While the world confronts a pandemic, our critical infrastructure is vulnerable to cyberattack. Read this new report on where the weak points are and how to strengthen defenses against terrorists and cyber-criminals.",
+            "img": "/9.jpg"
+        }
+    ]
+}

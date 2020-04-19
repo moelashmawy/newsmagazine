@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Image } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookSquare, faTwitter, faInstagramSquare, faTumblr, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
@@ -16,19 +16,19 @@ function Footer(props) {
                 <Col md={6} className="footer-social">
                     <ul>
                         <li>
-                            <a href="#"><FontAwesomeIcon icon={faFacebookSquare} /></a>
+                            <a href="someUrl"><FontAwesomeIcon icon={faFacebookSquare} /></a>
                         </li>
                         <li>
-                            <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
+                            <a href="someUrl"><FontAwesomeIcon icon={faTwitter} /></a>
                         </li>
                         <li>
-                            <a href="#"><FontAwesomeIcon icon={faInstagramSquare} /></a>
+                            <a href="someUrl"><FontAwesomeIcon icon={faInstagramSquare} /></a>
                         </li>
                         <li>
-                            <a href="#"><FontAwesomeIcon icon={faTumblr} /></a>
+                            <a href="someUrl"><FontAwesomeIcon icon={faTumblr} /></a>
                         </li>
                         <li>
-                            <a href="#"><FontAwesomeIcon icon={faLinkedin} /></a>
+                            <a href="someUrl"><FontAwesomeIcon icon={faLinkedin} /></a>
                         </li>
                     </ul>
                 </Col>
@@ -38,19 +38,19 @@ function Footer(props) {
                 <span>Editions: </span>
                 <ul>
                     <li>
-                        <a href="#">U.S. Edition</a>
+                        <a href="someUrl">U.S. Edition</a>
                     </li>
                     <li>
-                        <a href="#">日本</a>
+                        <a href="someUrl">日本</a>
                     </li>
                     <li>
-                        <a href="#">Pakistan</a>
+                        <a href="someUrl">Pakistan</a>
                     </li>
                     <li>
-                        <a href="#">Polska</a>
+                        <a href="someUrl">Polska</a>
                     </li>
                     <li>
-                        <a href="#">România</a>
+                        <a href="someUrl">România</a>
                     </li>
                 </ul>
             </div>
@@ -58,43 +58,43 @@ function Footer(props) {
             <div className="footer-nav">
                 <ul>
                     <li>
-                        <a href="#">About Us</a>
+                        <a href="someUrl">About Us</a>
                     </li>
                     <li>
-                        <a href="#">Corrections</a>
+                        <a href="someUrl">Corrections</a>
                     </li>
                     <li>
-                        <a href="#">Contact Us</a>
+                        <a href="someUrl">Contact Us</a>
                     </li>
                     <li>
-                        <a href="#">Editorial Guidelines</a>
+                        <a href="someUrl">Editorial Guidelines</a>
                     </li>
                     <li>
-                        <a href="#">Advertise</a>
+                        <a href="someUrl">Advertise</a>
                     </li>
                     <li>
-                        <a href="#">Copyright</a>
+                        <a href="someUrl">Copyright</a>
                     </li>
                     <li>
-                        <a href="#">Terms &amp; Conditions</a>
+                        <a href="someUrl">Terms &amp; Conditions</a>
                     </li>
                     <li>
-                        <a href="#">Privacy Policy</a>
+                        <a href="someUrl">Privacy Policy</a>
                     </li>
                     <li>
-                        <a href="#">Cookie Policy</a>
+                        <a href="someUrl">Cookie Policy</a>
                     </li>
                     <li>
-                        <a href="#">Terms of Sale</a>
+                        <a href="someUrl">Terms of Sale</a>
                     </li>
                     <li>
-                        <a href="#">Archive</a>
+                        <a href="someUrl">Archive</a>
                     </li>
                     <li>
-                        <a href="#">Announcements</a>
+                        <a href="someUrl">Announcements</a>
                     </li>
                     <li>
-                        <a href="#">Consent preferences</a>
+                        <a href="someUrl">Consent preferences</a>
                     </li>
                 </ul>
             </div>

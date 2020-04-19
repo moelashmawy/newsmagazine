@@ -1,5 +1,8 @@
 import React from 'react';
 import { Row, Col, Image } from 'react-bootstrap'
+import cover1 from './../../images/april-03-2020-cover.jpg';
+import cover2 from './../../images/cover-april-10-2020.jpg';
+import newsletter from './../../images/starting5-homepage.png';
 
 function Subscribe(props) {
     return (
@@ -10,8 +13,8 @@ function Subscribe(props) {
                     <Row className="subscribe">
                         <Col md={4} className="left-side">
                             <div className="imgs">
-                                <Image src="https://d.newsweek.com/en/full/1576902/april-03-2020-cover.jpg" fluid />
-                                <Image src="https://d.newsweek.com/en/full/1577760/cover-april-10-2020.jpg" fluid />
+                                <Image src={cover1} fluid />
+                                <Image src={cover2} fluid />
                             </div>
                         </Col>
                         <Col md={8} xs={12} className="right-side">
@@ -29,7 +32,7 @@ function Subscribe(props) {
                     <div className="subscribe-body-heading">NEWSLETTER</div>
                     <div className="news-letter">
                         <div className="left-side">
-                            <Image src="https://d.newsweek.com/en/full/1541302/starting5-homepage.png" fluid />
+                            <Image src={newsletter} fluid />
                         </div>
                         <div className="right-side">
                             <h4>The Starting 5</h4>
