@@ -16,7 +16,7 @@ function HeaderNews(props) {
                         <div className="wrap">
                             <Image src={require('./../../images' + item.image)} fluid />
                             <div className="category">
-                                <a href="/us">{item.category}</a>
+                                <a href={`/${item.category}`}>{item.category}</a>
                             </div>
                         </div>
                         <h4><a href="someUrl">{item.title}</a></h4>
