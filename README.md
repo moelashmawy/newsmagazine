@@ -1,6 +1,6 @@
 <h1 align="center">  📰 NewsMagazine 📰 </h1>
 
-> Built with React JS, the app was made to implement concepts like React Router, one page website,....
+> Built with React JS, the app was made to implement concepts like React Routing, one page website, Responsive design, Sass, CSS animations,...
 
 > React NewsMagazine for The Odin Project practice
 > From The Odin Project's [curriculum](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)

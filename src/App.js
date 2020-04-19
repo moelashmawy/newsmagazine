@@ -10,7 +10,7 @@ function App() {
   // This finction to imit AOS library
   useEffect(() => {
     AOS.init({
-      duration: 1000
+      duration: 1500
     })
   })
 
