@@ -7,7 +7,7 @@
 > The Code can be found [here](https://github.com/hamohuh/newsmagazine/tree/master)
 
 
-<h1 align="center">  ###  ⚡️⚡️⚡️ [Live Demo](https://hamohuh.github.io/newsmagazine/) ⚡️⚡️⚡️ </h1>
+<h1 align="center"> ⚡️⚡️⚡️ [Live Demo](https://hamohuh.github.io/newsmagazine/) ⚡️⚡️⚡️</h1>
 
 
 
