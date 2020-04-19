@@ -11,10 +11,10 @@
 
 
 ## Table of contents 📜
-* [Main Features](#main-features)
-* [Technologies](#technologies)
-* [Key Concepts](#key-concepts)
-* [Setup](#setup)
+* [Main Features](#main-features-)
+* [Technologies](#technologies-)
+* [Key Concepts](#key-concepts-)
+* [Setup](#setup-)
 
 
 ## Main Features 🚩
