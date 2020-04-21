@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Image } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
 
 function Opinions(props) {
     const [opinions, setOpinions] = useState([]);

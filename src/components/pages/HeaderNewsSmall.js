@@ -1,5 +1,6 @@
 import React from 'react';
 import { Image, Row, Col } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 function HeaderNewsSmall(props) {
     const { posts, category } = props;
@@ -16,10 +17,10 @@ function HeaderNewsSmall(props) {
                         <div className="wrap">
                             <Image src={require('./../../images' + item.image)} fluid />
                             <div className="category">
-                                <a href={`/${item.category}`}>{item.category}</a>
+                                <Link to={`/${item.category}`}>{item.category}</Link>
                             </div>
                         </div>
-                        <h4><a href="someUrl">{item.title}</a></h4>
+                        <h4><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h4>
                         <div className="summary">{item.brief}</div>
                     </article>
                 </Col>

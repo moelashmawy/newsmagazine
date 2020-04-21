@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Row, Col, Image } from 'react-bootstrap'
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function Magazine(props) {
     const [magazinePosts, setMagazinePosts] = useState([]);
@@ -17,15 +18,15 @@ function Magazine(props) {
                 <Col md={3} key={item.id} data-aos="zoom-in-up">
                     <article className="mag-article">
                         <div className="mag-article-img">
-                            <a href="someUrl">
+                            <Link to={'/' + item.category + '/' + item.id}>
                                 <Image src={require('./../../images' + item.image)} fluid />
-                            </a>
+                            </Link>
                         </div>
                         <div className="mag-article-cat">
                             <span>COVER</span>
-                            <a href="/us">{item.category}</a>
+                            <Link to={'/' + item.category}>{item.category}</Link>
                         </div>
-                        <h5><a href="someUrl">{item.title}</a></h5>
+                        <h5><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h5>
                     </article>
                 </Col>
             )

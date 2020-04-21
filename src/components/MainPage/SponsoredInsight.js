@@ -17,12 +17,12 @@ function SponsoredInsight(props) {
                 <article className="sponsored-insight-item" key={item.id}>
                     <div className="wrap">
                         <div className="category">
-                            <a href="/news">SPONSORED INSIGHT</a>
+                            <a href="adsUrl">SPONSORED INSIGHT</a>
                         </div>
                         <Image src={require('./../../images' + item.img)} fluid />
                     </div>
                     <div className="text-wrap">
-                        <h4><a href="someUrl">{item.title}</a></h4>
+                        <h4><a href="adsUrl">{item.title}</a></h4>
                         <div className="summary">{item.brief}</div>
                     </div>
                 </article>

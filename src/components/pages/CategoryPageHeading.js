@@ -13,7 +13,7 @@ function CategoryPageHeading(props) {
 
     const categoryName = filteredPosts.map(item => {
         return (
-            <span className="ic1">{item.displayName}</span>
+            <span className="ic1" key={item.id}>{item.displayName}</span>
         )
     })
 

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Row, Col, Image } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 
 function FeaturedSlideshows(props) {
@@ -19,11 +20,11 @@ function FeaturedSlideshows(props) {
                     <article>
                         <div className="wrap">
                             <div className="category">
-                                <a href="/us">11</a>
+                                <Link to={'/' + item.category + '/' + item.id}>11</Link>
                             </div>
                             <Image src={require('./../../images' + item.image)} fluid />
                         </div>
-                        <h4><a href="someUrl">{item.title}</a></h4>
+                        <h4><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h4>
                     </article>
                 </Col>
             )

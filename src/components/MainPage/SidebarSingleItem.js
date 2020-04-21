@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Image } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function SidebarSingleItem(props) {
     const [sidebarSingleItem, setSidebarSingleItem] = useState([]);
@@ -20,7 +21,7 @@ function SidebarSingleItem(props) {
                         <Image src={require('./../../images' + item.image)} fluid />
                     </div>
                     <div className="text-wrap">
-                        <h4><a href="someUrl">{item.title}</a></h4>
+                        <h4><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h4>
                         <div className="summary">{item.brief}</div>
                     </div>
                 </article>

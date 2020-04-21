@@ -11,6 +11,8 @@ import Pager from './Pager';
 function CategoryPageBody(props) {
     const [posts, setPosts] = useState([]);
 
+    const category = props.category;
+
     useEffect(() => {
         const posts = data.posts;
         setPosts(posts);
@@ -18,17 +20,17 @@ function CategoryPageBody(props) {
 
     return (
         <Container fluid className='category-page'>
-            <CategoryPageHeading category={props.category} />
+            <CategoryPageHeading category={category} />
 
-            <HeaderNews posts={posts} category={props.category} />
+            <HeaderNews posts={posts} category={category} />
 
-            <HeaderNewsSmall posts={posts} category={props.category} />
+            <HeaderNewsSmall posts={posts} category={category} />
 
-            <NewsFeed posts={posts} category={props.category} postsNo={1} />
+            <NewsFeed posts={posts} category={category} postsNo={1} />
 
-            <HeaderNewsSmall posts={posts} category={props.category} />
+            <HeaderNewsSmall posts={posts} category={category} />
 
-            <NewsFeed posts={posts} category={props.category} postsNo={9} />
+            <NewsFeed posts={posts} category={category} postsNo={9} />
 
             <Pager />
         </Container>

@@ -71,7 +71,6 @@ function Body(props) {
                             </div>
                             <div className="info">
                                 <a href="someUrl">Biden's Running Mate Needs to Win Him an Entire State, Not Just a Constituency</a>
-
                             </div>
                         </div>
                         <div className="byline">

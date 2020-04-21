@@ -19,7 +19,7 @@
 
 ## 🚩 Main Features
 * One page website
-* Elegant UI
+* Elegant & Responsive UI
 
 ## 💹 Technologies
 Project is created with:

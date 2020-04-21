@@ -184,6 +184,7 @@ h4 a:hover, h5 a:hover{
   position: absolute;
   right: 11.5%;
   width: 87%;
+  height: 50px;
 }
 .form-inline .search-button{
   color: #000 !important;
@@ -521,7 +522,7 @@ color: #c2d4d7;
   margin-right: 10px;
 }
 .first-row{
-  margin-bottom: 40px;
+  padding-bottom: 40px;
 }
 .mag-article{
   margin: 15px 0;
@@ -926,6 +927,7 @@ background-color: white;
     top: -45px;
     right: 10px;
     border: none !important;
+    color: #f4f5f6 !important;
   }
   .navbar-toggler-icon{
     color: #f4f5f6 !important;
@@ -983,6 +985,10 @@ background-color: white;
   .header .header-left {
     text-align: left;
   }
+  .header{
+    margin-right: -30px !important;
+    margin-left: -30px !important;
+  }
 }
 
 @media only screen and (max-width: 768px){
@@ -992,9 +998,17 @@ background-color: white;
     padding-top: 20px;
     border-top: 15px solid #f4f5f6;
   }
+  .header{
+    margin-right: -30px !important;
+    margin-left: -30px !important;
+  }
 }
 
 @media only screen and (max-width: 576px) {
+  .header{
+    margin-right: -30px !important;
+    margin-left: -30px !important;
+  }
   .logo{
     font-size: 17px;
     order: -1;
@@ -1011,5 +1025,11 @@ background-color: white;
   }
   .subscribe{
     margin-left: 5px !important;
+  }
+  .navbar-toggler{
+    position: absolute;
+    top: -45px;
+    right: 0px;
+    border: none !important;
   }
 }

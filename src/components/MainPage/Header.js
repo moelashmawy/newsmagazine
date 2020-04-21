@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Nav, Navbar, Form, FormControl, Button } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
 import { Link } from 'react-router-dom';
 
 function Header(props) {

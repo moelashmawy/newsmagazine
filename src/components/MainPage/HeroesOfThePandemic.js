@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Image, Col, Row } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function HeroesOfThePandemic(props) {
     const [pandemics, setPandemics] = useState([]);
@@ -19,11 +20,11 @@ function HeroesOfThePandemic(props) {
                     <article className="culture-item">
                         <div className="wrap">
                             <div className="tags">
-                                <a href="/business">{item.topics[0].name}</a>
+                                <Link to={item.category}>{item.topics[0].name}</Link>
                             </div>
                             <Image src={require('./../../images' + item.image)} fluid />
                         </div>
-                        <h5><a href="someUrl">{item.title}</a></h5>
+                        <h5><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h5>
                         <div className="summary">{item.brief}</div>
                     </article>
                 </Col>

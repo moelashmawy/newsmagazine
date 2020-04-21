@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Image } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function LatestNews(props) {
     const [latestNews, setLatestNews] = useState([]);
@@ -17,12 +18,12 @@ function LatestNews(props) {
             return (
                 <div className="latest-news-item" key={item.id} data-aos="fade-up">
                     <div className="latest-news-item-img">
-                        <a href="author">
+                        <Link to={'/' + item.category + '/' + item.id}>
                             <Image src={require('./../../images' + item.image)} fluid />
-                        </a>
+                        </Link>
                     </div>
                     <div className="info">
-                        <a href="someUrl">{item.title}</a>
+                        <Link to={'/' + item.category + '/' + item.id}>{item.title}</Link>
                     </div>
                 </div>
             )

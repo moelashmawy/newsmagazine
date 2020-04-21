@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Image } from 'react-bootstrap';
-import data from './../../js/data.json';
+import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function FeaturedStories(props) {
     const [stories, setStories] = useState([]);
@@ -18,11 +19,11 @@ function FeaturedStories(props) {
                 <article key={item.id}>
                     <div className="wrap">
                         <div className="category">
-                            <a href="/us">{item.category}</a>
+                            <Link to={'/' + item.category}>{item.category}</Link>
                         </div>
                         <Image src={require('./../../images' + item.image)} fluid />
                     </div>
-                    <h4><a href="someUrl">{item.title}</a></h4>
+                    <h4><Link to={'/' + item.category + '/' + item.id}>{item.title}</Link></h4>
                     <div className="summary">{item.brief}</div>
                 </article>
             )
