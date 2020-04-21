@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/newsmagazine/static/css/main.4c161401.chunk.css",
-    "main.js": "/newsmagazine/static/js/main.8ec34203.chunk.js",
-    "main.js.map": "/newsmagazine/static/js/main.8ec34203.chunk.js.map",
+    "main.css": "/newsmagazine/static/css/main.3c95ec5b.chunk.css",
+    "main.js": "/newsmagazine/static/js/main.818e33f0.chunk.js",
+    "main.js.map": "/newsmagazine/static/js/main.818e33f0.chunk.js.map",
     "runtime-main.js": "/newsmagazine/static/js/runtime-main.461fedc0.js",
     "runtime-main.js.map": "/newsmagazine/static/js/runtime-main.461fedc0.js.map",
     "static/css/2.21900056.chunk.css": "/newsmagazine/static/css/2.21900056.chunk.css",
-    "static/js/2.ea342bf3.chunk.js": "/newsmagazine/static/js/2.ea342bf3.chunk.js",
-    "static/js/2.ea342bf3.chunk.js.map": "/newsmagazine/static/js/2.ea342bf3.chunk.js.map",
+    "static/js/2.efa72df1.chunk.js": "/newsmagazine/static/js/2.efa72df1.chunk.js",
+    "static/js/2.efa72df1.chunk.js.map": "/newsmagazine/static/js/2.efa72df1.chunk.js.map",
     "index.html": "/newsmagazine/index.html",
-    "precache-manifest.633007498d64296ac1d0e6120933d823.js": "/newsmagazine/precache-manifest.633007498d64296ac1d0e6120933d823.js",
+    "precache-manifest.e7092638e13a597e9dea6a23a279955f.js": "/newsmagazine/precache-manifest.e7092638e13a597e9dea6a23a279955f.js",
     "service-worker.js": "/newsmagazine/service-worker.js",
     "static/css/2.21900056.chunk.css.map": "/newsmagazine/static/css/2.21900056.chunk.css.map",
-    "static/css/main.4c161401.chunk.css.map": "/newsmagazine/static/css/main.4c161401.chunk.css.map",
-    "static/js/2.ea342bf3.chunk.js.LICENSE.txt": "/newsmagazine/static/js/2.ea342bf3.chunk.js.LICENSE.txt",
+    "static/css/main.3c95ec5b.chunk.css.map": "/newsmagazine/static/css/main.3c95ec5b.chunk.css.map",
+    "static/js/2.efa72df1.chunk.js.LICENSE.txt": "/newsmagazine/static/js/2.efa72df1.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/newsmagazine/static/media/1.0e6be324.jpg",
     "static/media/10.jpg": "/newsmagazine/static/media/10.4b1ee3a5.jpg",
     "static/media/11.jpg": "/newsmagazine/static/media/11.8bfb3621.jpg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.461fedc0.js",
     "static/css/2.21900056.chunk.css",
-    "static/js/2.ea342bf3.chunk.js",
-    "static/css/main.4c161401.chunk.css",
-    "static/js/main.8ec34203.chunk.js"
+    "static/js/2.efa72df1.chunk.js",
+    "static/css/main.3c95ec5b.chunk.css",
+    "static/js/main.818e33f0.chunk.js"
   ]
 }
