@@ -32,7 +32,7 @@ function CategoryPageBody(props) {
 
             <NewsFeed posts={posts} category={category} postsNo={9} />
 
-            <Pager />
+            <Pager category={category} />
         </Container>
 
     )

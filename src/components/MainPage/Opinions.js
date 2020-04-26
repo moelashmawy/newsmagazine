@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Image } from 'react-bootstrap';
 import data from '../../js/data.json';
+import { Link } from 'react-router-dom';
 
 function Opinions(props) {
     const [opinions, setOpinions] = useState([]);
 
     useEffect(() => {
-        const opinions = data.opinions;
+        const opinions = data.posts.filter(item => item.category === 'opinion');
         setOpinions(opinions);
     }, [])
 
@@ -16,12 +17,12 @@ function Opinions(props) {
             return (
                 <div className="opinion" key={item.id}>
                     <div className="headshot">
-                        <a href="author">
+                        <Link to={'/opinion/' + item.id}>
                             <Image src={require('./../../images' + item.authorImg)} fluid />
-                        </a>
+                        </Link>
                     </div>
                     <div className="info">
-                        <a href="someUrl">{item.title}</a>
+                        <Link to={'/opinion/' + item.id}>{item.title}</Link>
                         <div>BY {item.author}</div>
                     </div>
                 </div>

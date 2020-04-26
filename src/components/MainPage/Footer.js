@@ -2,13 +2,14 @@ import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookSquare, faTwitter, faInstagramSquare, faTumblr, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { Link } from 'react-router-dom';
 
 function Footer(props) {
     return (
         <section className="footer-body">
             <Row className="footer-heading">
                 <Col md={3}>
-                    <div className="title">NewsMagazine</div>
+                    <Link to="/" className="title">NewsMagazine</Link>
                 </Col>
                 <Col md={3} className="footer-rights">
                     <div >© 2020 NewsMagazine</div>
@@ -16,19 +17,29 @@ function Footer(props) {
                 <Col md={6} className="footer-social">
                     <ul>
                         <li>
-                            <a href="someUrl"><FontAwesomeIcon icon={faFacebookSquare} /></a>
+                            <a href="http://www.fb.com/hamohuh" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faFacebookSquare} />
+                            </a>
                         </li>
                         <li>
-                            <a href="someUrl"><FontAwesomeIcon icon={faTwitter} /></a>
+                            <a href="http://www.twitter.com/hamohuh" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faTwitter} />
+                            </a>
                         </li>
                         <li>
-                            <a href="someUrl"><FontAwesomeIcon icon={faInstagramSquare} /></a>
+                            <a href="http://www.instagram.com/hamohuh" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faInstagramSquare} />
+                            </a>
                         </li>
                         <li>
-                            <a href="someUrl"><FontAwesomeIcon icon={faTumblr} /></a>
+                            <a href="http://www.github.com/hamohuh" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faTumblr} />
+                            </a>
                         </li>
                         <li>
-                            <a href="someUrl"><FontAwesomeIcon icon={faLinkedin} /></a>
+                            <a href="https://www.linkedin.com/in/mo-elashmawy" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faLinkedin} />
+                            </a>
                         </li>
                     </ul>
                 </Col>
@@ -38,19 +49,19 @@ function Footer(props) {
                 <span>Editions: </span>
                 <ul>
                     <li>
-                        <a href="someUrl">U.S. Edition</a>
+                        <Link to="/">U.S. Edition</Link>
                     </li>
                     <li>
-                        <a href="someUrl">日本</a>
+                        <Link to="/">日本</Link>
                     </li>
                     <li>
-                        <a href="someUrl">Pakistan</a>
+                        <Link to="/">Pakistan</Link>
                     </li>
                     <li>
-                        <a href="someUrl">Polska</a>
+                        <Link to="/">Polska</Link>
                     </li>
                     <li>
-                        <a href="someUrl">România</a>
+                        <Link to="/">România</Link>
                     </li>
                 </ul>
             </div>

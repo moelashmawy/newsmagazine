@@ -1,7 +1,5 @@
 import React from 'react';
-import { Row, Col, Image } from 'react-bootstrap';
-import img1 from './../../images/1.jpg';
-import authorImg from './../../images/doug-gordon.webp';
+import { Row, Col } from 'react-bootstrap';
 import Opinions from './Opinions';
 import FeaturedStories from './FeaturedStoris';
 import SponsoredInsight from './SponsoredInsight';
@@ -12,6 +10,7 @@ import LatestNews from './LatestNews';
 import SidebarSingleItem from './SidebarSingleItem';
 import SignUp from './SignUp';
 import TopStory from './TopStory';
+import Debate from './Debate';
 
 function Body(props) {
     return (
@@ -60,61 +59,7 @@ function Body(props) {
 
 
                 {/** THE DEBATE CATEGORY  **/}
-                <p className="category-name">THE DEBATE</p>
-                <div className="debates">
-                    <div className="debate">
-                        <div>
-                            <div className="debate-img1">
-                                <a href="author">
-                                    <Image src={img1} fluid />
-                                </a>
-                            </div>
-                            <div className="info">
-                                <a href="someUrl">Biden's Running Mate Needs to Win Him an Entire State, Not Just a Constituency</a>
-                            </div>
-                        </div>
-                        <div className="byline">
-                            <div className="debate-headshot">
-                                <a href="author">
-                                    <Image src={authorImg} fluid />
-                                </a>
-                            </div>
-
-                            <div className="f1">
-                                <span>By </span>
-                                <a href="/authors" className="author-name">Peter Roff</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="vs">VS</div>
-
-                    <div className="debate">
-                        <div>
-                            <div className="debate-img1">
-                                <a href="author">
-                                    <Image src={img1} fluid />
-                                </a>
-                            </div>
-                            <div className="info">
-                                <a href="someUrl">Biden's Running Mate Needs to Win Him an Entire State, Not Just a Constituency</a>
-
-                            </div>
-                        </div>
-                        <div className="byline">
-                            <div className="debate-headshot">
-                                <a href="author">
-                                    <Image src={authorImg} fluid />
-                                </a>
-                            </div>
-                            <div className="f1">
-                                <span>By </span>
-                                <a href="/authors" className="author-name">Peter Roff</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="clear-both"></div>
-                </div>
+                <Debate />
 
                 {/*** LATEST NEWS CATEGORY  **/}
                 <LatestNews />

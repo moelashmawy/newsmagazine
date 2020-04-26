@@ -5,7 +5,9 @@ import Footer from '../mainPage/Footer';
 import CategoryPageBody from './CategoryPageBody';
 
 function CategoryPage(props) {
-    const category = props.match.params.topic;
+    const category = props.match.params.category;
+    console.log(props);
+
     return (
         <Container fluid>
             <Header />

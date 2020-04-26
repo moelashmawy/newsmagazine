@@ -21,7 +21,7 @@ function CultureTravel(props) {
                     <article className="culture-item">
                         <div className="wrap">
                             <div className="tags">
-                                <Link to="/business">{item.topics[0].name}</Link>
+                                <Link to={'/topic/' + item.topics[0].name}>{item.topics[0].name}</Link>
                             </div>
                             <Image src={require('./../../images' + item.image)} fluid />
                         </div>

@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
+
+/*  Variables  */
+$main-color: #f72210;
+$font-stack: 'Roboto Condensed', sans-serif;
+
+.post-single-page{
+    .main-navbar{
+        border-bottom: none;
+    }
+}
+.post-body{
+    background-color: #fff;
+    margin-top: 20px;
+
+    .post-category{
+        margin: 25px 0;
+        text-transform: uppercase;
+        
+        
+        a{
+            color: $main-color;
+            font-weight: 800;
+            font-family: $font-stack;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+
+    .post-title{
+        color: #000;
+    }
+
+    .by-line{
+        margin: 20px 0;
+        word-spacing: 3px;
+        color: #555;
+
+        .post-author{
+            font-weight: 700;
+            text-transform: uppercase;
+
+            a{
+            color: $main-color;
+            font-weight: 700;
+            font-family: $font-stack;
+            &:hover{
+                text-decoration: none;
+                color: #000;
+            }
+        }
+        }
+    }
+
+    .share-post{
+        border-top: 2px solid #f4f5f6;
+        border-bottom: 2px solid #f4f5f6;
+        margin: 20px 0;
+        display: flex;
+
+        span{
+            padding-bottom: 0;
+            margin-right: 10px;
+            margin-left: 5px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 65px;
+        }
+
+        ul{
+            list-style: none;
+            display: flex;
+            margin-left: -35px;
+            margin-top: 1rem;
+           
+            li{
+                margin-right: 5px;
+                font-size: 18px;
+                background-color: #f72210;
+                height: 35px;
+                width: 35px;
+                border-radius: 50%;
+
+                &:first-child{
+                    background-color: #3b5998;
+                    &:hover{
+                        background-color: #355089;
+                    }
+                }
+                &:nth-child(2){
+                    background-color: #1da1f2;
+                    &:hover{
+                        background-color: #1b91d9;
+                    }
+                }
+                &:nth-child(3){
+                    background-color: #35465c;
+                    &:hover{
+                        background-color: #2f3f53;;
+                    }
+                }
+                &:nth-child(4){
+                    background-color: #0077b5;
+                    &:hover{
+                        background-color: #006ba3;
+                    }
+                }
+                &:nth-child(5){
+                    background-color: #c8232c;
+                }
+                &:nth-child(6){
+                    background-color: #ff4500;
+                    &:hover{
+                        background-color: #c73f23;
+                    }
+                }
+                &:nth-child(7){
+                    background-color: #999;
+                    &:hover{
+                        background-color: #898989;
+                    }
+                }
+
+                a{
+                color: #fff;
+                position: relative;
+                left: 9px;
+                line-height: 35px;
+
+                
+                }
+            }
+        }
+    }
+
+    .topics{
+        margin-bottom: 25px;
+
+        a{
+            color: #999;
+            background-color: #e5e5e5;
+            text-transform: uppercase;
+            font-size: 12px;
+            font-weight: bold;
+            font-family: $font-stack;
+            letter-spacing: 1.5px;
+            padding: 9px 20px;
+            margin-right: 10px;
+            &:hover{
+                text-decoration: none;
+                color: $main-color;
+            }
+
+            &:first-child{
+                background-color: $main-color;
+                color: #fff;
+                &:hover{
+                    text-decoration: none;
+                }
+            }
+         }
+    }
+
+    .post-details{
+        color: #000;
+    
+        p{
+            &::first-letter{
+            font-size: 50px;
+            margin-top: 150px;
+            font-family: $font-stack;
+        }
+
+        }
+    }
+
+    .post-image{
+        margin-bottom: 25px;
+
+        .image-alt{
+            font: 15px/18px "Roboto Condensed",sans-serif;
+            text-align: left;
+            padding: 10px 15px 15px;
+            background-color: #f5f5f5;
+            color: #666;
+        }
+    }
+
+    .read-more{
+        border-bottom: 4px solid #f3f3f3;
+        margin-bottom: 25px;
+        .block-title{
+            &::before{
+                content: "";
+                border-bottom: 4px solid #f3f3f3;
+                display: block;
+                position: relative;
+                top: 14px;
+            }
+            p{
+                color: #4f4e4e;
+                font: bold 16px $font-stack;
+                text-transform: uppercase;
+                position: relative;
+                left: 15px;
+                z-index: 12;   
+                display: inline-block;
+                background-color: #fff;
+                padding: 0 9px;
+            }
+        }
+
+        ul{
+            list-style: none;
+            li{
+                &::before {
+                    content: "•";
+                    font-size: 20px;
+                    color: #cc1e11;
+                    font-weight: bold;
+                    display: inline-block; 
+                    width: 15px;
+                    margin-left: -1em;
+                }
+            }
+        }
+
+        a{
+            font-size: 17px;
+            font-family: $font-stack;
+            color: #cc1e11;
+            &:hover{
+                text-decoration: none;
+                color: #000;
+            }
+        }
+    }
+
+    .more-in{
+        .more-in-heading{
+            padding-top: 20px;
+            padding-bottom: 20px;
+            border-top: 1px solid #ddd;
+            color: #f72210;
+            font: bold 16px/16px "Roboto Condensed",sans-serif;
+            text-transform: uppercase;
+        }
+        .more-in-item{
+            margin-bottom: 20px;
+
+            .img-fluid{
+                height: 170px;
+            }
+        }
+    }
+    
+
+
+
+}

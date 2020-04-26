@@ -7,6 +7,8 @@ and the any other file will be made by Sass
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
 @import 'categoryPage';
+@import 'postBody';
+@import 'topicPage';
 
 /*  Variables  */
 $main-color: #f72210;
@@ -788,6 +790,9 @@ background-color: white;
   color: $main-color;
   font-size: 2.8vw;
   font-weight: 900;
+}
+.footer-body .title:hover{
+  text-decoration: none;
 }
 .footer-body .footer-rights{
   align-self: flex-end;
