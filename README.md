@@ -7,7 +7,7 @@
 > The Code can be found [here](https://github.com/hamohuh/newsmagazine/tree/master)
 
 
-###  ⚡️⚡️⚡️ [Live Demo](https://hamohuh.github.io/newsmagazine/) ⚡️⚡️⚡️
+###  ⚡️⚡️⚡️ [Live Demo](https://moelashmawy.github.io/newsmagazine/) ⚡️⚡️⚡️
 
 
 ## 📜 Table of contents
@@ -48,7 +48,8 @@ $ npm start
 👤 **Mohamed Elashmawy**
 
 * Twitter: [@hamohuh](https://twitter.com/hamohuh)
-* Github: [@hamohuh](https://github.com/hamohuh)
+* Github: [@moelashmawy](https://github.com/moelashmawy)
+* LinkedIn: [@moelashmawy](linkedin.com/in/moelashmawy)
 * Email: [hamodroid@gmail.com](mailto:hamodroid@gmail.com)
 
 ## 📝 License
