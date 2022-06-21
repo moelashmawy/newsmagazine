@@ -50,7 +50,7 @@ $ npm start
 * Twitter: [@hamohuh](https://twitter.com/hamohuh)
 * Github: [@moelashmawy](https://github.com/moelashmawy)
 * LinkedIn: [@moelashmawy](linkedin.com/in/moelashmawy)
-* Email: [hamodroid@gmail.com](mailto:hamodroid@gmail.com)
+* Email: [ashmawy894@gmail.com](mailto:ashmawy894@gmail.com)
 
 ## 📝 License
 This project is [MIT](./LICENSE) licensed.
